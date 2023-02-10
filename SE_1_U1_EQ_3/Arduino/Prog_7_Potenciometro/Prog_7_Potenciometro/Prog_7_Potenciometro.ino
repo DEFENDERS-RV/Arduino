@@ -22,8 +22,5 @@ void loop() { //16Mhz
   //ESTO SIGNIFCA QUE CUENTA CON 1024 VALORES = > 0 - 1023
   Serial.println(pot);
 
-  delay(500); //500 MILISEGUNDOS
-
-
-  
+  delay(500); //500 MILISEGUNDOS  
 }

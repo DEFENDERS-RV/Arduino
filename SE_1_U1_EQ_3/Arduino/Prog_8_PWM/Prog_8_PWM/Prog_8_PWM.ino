@@ -14,7 +14,7 @@ int led = 6;
 
 void setup() {
   // LOS PINES PWM , NO REQUIEREN QUE SE ESTABLEZCA EL MODO DE TRABAJO
-
+  
 }
 
 int i;
