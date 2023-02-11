@@ -1,5 +1,5 @@
-# Arduino
-Codigos de la UNIDAD 1 en Arduino:
+# Arduino :man_technologist: :woman_technologist:
+Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_1_Intro/Prog_1_Intro.ino)
 * [Ejercicio 2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_2_/Programa2/Programa2.ino)
 * [Ejercicio 3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_3_PrendidoLED/Prog_3_PrendidoLED/Prog_3_PrendidoLED.ino)
@@ -9,11 +9,11 @@ Codigos de la UNIDAD 1 en Arduino:
 * [Ejercicio 7](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_7_Potenciometro/Prog_7_Potenciometro/Prog_7_Potenciometro.ino)
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
-## Practicas en Arduino 
+## Practicas en Arduino :computer: :gear:
 
 En este apartado se muestran las practicas hechas en Arduino
 
-UNIDAD 1:
+UNIDAD :one: :
 * [P1 - 3 Series Diferentes](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/3SERIESDELUCESDIFERENTES/3SERIESDELUCESDIFERENTES.ino)
 * [P2 - Serie Fibonacci](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/FIBO/FIBO.ino)
 * [P3 - Limite de una Variable](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/LIMITEVARIABLE/v3evretvb.ino)
