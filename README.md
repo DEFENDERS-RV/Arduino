@@ -12,3 +12,10 @@ Codigos de la UNIDAD 1 en Arduino:
 ## Practicas en Arduino 
 
 En este apartado se muestran las practicas hechas en Arduino
+
+UNIDAD 1:
+* [P1 - 3 Series Diferentes](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/3SERIESDELUCESDIFERENTES/3SERIESDELUCESDIFERENTES.ino)
+* [P2 - Serie Fibonacci](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/FIBO/FIBO.ino)
+* [P3 - Limite de una Variable](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/LIMITEVARIABLE/v3evretvb.ino)
+* [P4 - Sumador Medido](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/SUMADORMEDIO/sumador_medio/sumador_medio.ino)
+
