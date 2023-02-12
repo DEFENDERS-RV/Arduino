@@ -19,3 +19,5 @@ UNIDAD :one: :
 * [P3 - Limite de una Variable](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/LIMITEVARIABLE/v3evretvb.ino)
 * [P4 - Sumador Medido](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/SUMADORMEDIO/sumador_medio/sumador_medio.ino)
 
+UNIDAD :two: :
+* [P1 - MODA](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/practica_moda/practica_moda.ino)
