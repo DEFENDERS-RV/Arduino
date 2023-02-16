@@ -10,9 +10,15 @@ Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
 Codigos de la UNIDAD :two: en Arduino:
+### Archivos :file_folder: 
+* [P_3_SendDP_Promedio](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Archivos)
 
+### Python y QT Designer :snake: :pencil2:
+
+* [Link directo](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
 ## Practicas en Arduino :computer: :gear:
+
 
 En este apartado se muestran las practicas hechas en Arduino
 
