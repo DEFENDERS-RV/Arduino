@@ -11,7 +11,7 @@ Codigos de la UNIDAD :one: en Arduino:
 
 Codigos de la UNIDAD :two: en Arduino:
 * [Ejercicio 1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
-* [Ejercicio 2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
+* [Ejercicio 2](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro)
 * [Ejercicio 3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
 * [Ejercicio 4](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_4_SendDP_ValMenor/P_4_SendDP_ValMenor.ino)
 * [Ejercicio 5](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_5_SendDP_ValMayor/P_5_SendDP_ValMayor.ino)
