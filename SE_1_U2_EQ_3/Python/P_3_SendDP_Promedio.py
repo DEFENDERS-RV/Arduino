@@ -1,9 +1,8 @@
-
 import serial as s
 
 arduino = None
 
-arduino = s.Serial("COM5", baudrate=9600, timeout=1)
+arduino = s.Serial("COM6", baudrate=9600, timeout=1)
 
 lista = []
 totlecturas = 5
@@ -23,11 +22,13 @@ while i < totlecturas:
 lista = list(map(int, lista))
 print(lista)
 
-archivo = open("..\..\ProgsClase\Archivos\P_3_SendDP_Promedio.csv","w")
+#archivo = open("C:\Users\Reyna\Documents\SE_I_U2_EQ_3\Archivos\P_3_SendDP_Promedio.cvs","w")
+archivo = open("../Archivos/P_3_SendDP_Promedio.cvs", "w")
 
 for lectura in lista:#
     #print(lectura)
     archivo.write(str(lectura) + ",")
+
 
 archivo.flush()
 archivo.close()
