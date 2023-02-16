@@ -10,9 +10,33 @@ Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
 Codigos de la UNIDAD :two: en Arduino:
+* [Ejercicio 1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
+* [Ejercicio 2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro/P_2_SendDataPotentiometro.ino)
+* [Ejercicio 3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
+* [Ejercicio 4](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_4_SendDP_ValMenor/P_4_SendDP_ValMenor.ino)
+* [Ejercicio 5](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_5_SendDP_ValMayor/P_5_SendDP_ValMayor.ino)
+* [Ejercicio 6](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_6_Send_GUI_Python/P_6_Send_GUI_Python.ino)
+* [Ejercicio 7](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_7_ControlLED/P_7_ControlLED.ino)
+* [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_8_ControlLED_confirmacion/P_8_ControlLED_confirmacion.ino)
+* [Ejercicio 9](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_9_ControlLED_SolicitaConfirmacion/P_9_ControlLED_SolicitaConfirmacion.ino)
+* [Ejercicio 10](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
 
+
+
+
+
+
+
+
+### Archivos :file_folder: 
+* [P_3_SendDP_Promedio](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Archivos)
+
+### Python y QT Designer :snake: :pencil2:
+
+* [Link directo](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
 ## Practicas en Arduino :computer: :gear:
+
 
 En este apartado se muestran las practicas hechas en Arduino
 
