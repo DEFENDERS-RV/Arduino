@@ -13,7 +13,7 @@ GUARDAR LAS 30 ORDENARLAS , DETERMIANR LA FRECUENCIA DE CADA UNO DE LOS NUMEROS 
 
 
 */
-int totMuestras = 30;
+int toMuestras = 30;
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);

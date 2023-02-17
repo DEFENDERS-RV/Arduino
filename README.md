@@ -22,22 +22,16 @@ Codigos de la UNIDAD :two: en Arduino:
 * [Ejercicio 10](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
 
 
-
-
-
-
-
-
 ### Archivos :file_folder: 
 * [P_3_SendDP_Promedio](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Archivos)
+* [P_4_SendDP_ValMenor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_4_SendDP_ValMenor.cvs)
+* [P_5_SendDP_ValMayor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_5_SendDP_ValMayor.cvs)
 
 ### Python y QT Designer :snake: :pencil2:
 
 * [Link directo](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
 ## Practicas en Arduino :computer: :gear:
-
-
 En este apartado se muestran las practicas hechas en Arduino
 
 UNIDAD :one: :
