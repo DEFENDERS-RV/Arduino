@@ -26,6 +26,7 @@ Codigos de la UNIDAD :two: en Arduino:
 * [P_3_SendDP_Promedio](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Archivos)
 * [P_4_SendDP_ValMenor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_4_SendDP_ValMenor.cvs)
 * [P_5_SendDP_ValMayor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_5_SendDP_ValMayor.cvs)
+* [TABLAS EXCEL - MARVEL](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/TABLAS_EQ3.xlsx)
 
 ### Python y QT Designer :snake: :pencil2:
 
