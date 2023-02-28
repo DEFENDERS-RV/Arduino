@@ -63,11 +63,14 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
                 if valor != "": #Solo agregamos cadenas que no esten vacias
                     print(valor) #consola
 
-                    if valor[0] == "E" and valor[-1] == "J":
+                    if valor[0] == "E" and valor[-1] == "C": #Cambiar a J o C
                         #valor.split()
-                        pass
+                        subCadena = valor[1:len(valor)-1]
+                        datos = subCadena.split("R")
+                        cadena = datos[0] + " A " + datos[1] + " A " + datos[2]
+                        #pass
 
-                    self.lw_datos.addItem(valor) #string
+                    self.lw_datos.addItem(cadena) #string
                     self.lw_datos.setCurrentRow(self.lw_datos.count()-1)
         except Exception as error:
             print(error)
