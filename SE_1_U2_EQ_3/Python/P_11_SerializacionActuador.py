@@ -1,5 +1,6 @@
 import sys
 
+import lw as lw
 import serial as conectaX #para trabajar con Arduino
 
 from PyQt5 import uic, QtWidgets , QtCore
@@ -68,6 +69,15 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
                 valor = valor.replace("\r" , "")
                 valor = valor.replace("\n" , "")
                 if valor!= "":
+                    if valor[0] == "E" and valor[-1] == "C":
+                        subcadena = valor [1:len(valor)-1]
+                        datos = subcadena.split("R")
+                        cadena = datos[0] + "A" + datos[1]+ "A" + datos[2]
+
+                        lw.addItem(cadena)
+
+
+
                     print(valor)
                     self.lw_datos.addItem(valor) #str
                     #currentRow ...
