@@ -44,3 +44,4 @@ UNIDAD :one: :
 UNIDAD :two: :
 * [P1 - MODA](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/practica_moda/practica_moda.ino)
 * [Px - Metodo Unico](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/MetodosubString/ArsubString/ArsubString.ino)
+* [PR - Moda v2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/modav2/modav2.ino)
