@@ -1,19 +1,13 @@
-// Definición de la entrada analógica del potenciómetro
 int potenciometro = A0;
+const int totMuestras = 30;
 
-// Definición de la cantidad de muestras a tomar
-int totMuestras = 30;
-
-// Array para almacenar las muestras tomadas
 int muestras[totMuestras];
 
 void setup() {
-  // Inicializar la comunicación serie a 9600 baudios
   Serial.begin(9600);
 }
 
 void loop() {
-  // Tomar las muestras de la entrada analógica
   for (int i = 0; i < totMuestras; i++) {
     muestras[i] = analogRead(potenciometro);
   }
