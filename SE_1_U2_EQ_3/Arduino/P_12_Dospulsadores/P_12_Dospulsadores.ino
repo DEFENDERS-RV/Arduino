@@ -1,7 +1,5 @@
 int pulsador1 = 3; //elegimos pines digitales , menos el 0 y el 1 
 int pulsador2 = 4;
-
-
 int v1 , v2;
 void setup() {
   // put your setup code here, to run once:
