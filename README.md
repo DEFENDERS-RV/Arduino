@@ -45,8 +45,7 @@ UNIDAD :one: :
 * [P4 - Sumador Medido](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/SUMADORMEDIO/sumador_medio/sumador_medio.ino)
 
 UNIDAD :two: :
-* [T1 - MODA](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/practica_moda/practica_moda.ino)
+* [PR - Moda](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/modav2/modav2.ino)
 * [PR - Metodo Unico](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/MetodosubString/ArsubString/ArsubString.ino)
-* [PR - Moda v2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/modav2/modav2.ino)
 * [PR - Mediana](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/mediana/mediana.ino)
 * [PR - ASCII LEDS](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/ascii%20leds/ascii%20leds.ino)
