@@ -9,7 +9,7 @@ Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 7](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_7_Potenciometro/Prog_7_Potenciometro/Prog_7_Potenciometro.ino)
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
-Codigos de la UNIDAD :two: en Arduino:
+_PROGRAMAS_ de la UNIDAD :two: en Arduino:
 * [P1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
 * [P2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro/P_2_SendDataPotentiometro.ino)
 * [P3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
