@@ -9,19 +9,19 @@ Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 7](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_7_Potenciometro/Prog_7_Potenciometro/Prog_7_Potenciometro.ino)
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
-_PROGRAMAS_ de la UNIDAD :two: en Arduino:
-* [P1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
-* [P2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro/P_2_SendDataPotentiometro.ino)
-* [P3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
-* [P4](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_4_SendDP_ValMenor/P_4_SendDP_ValMenor.ino)
-* [P5](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_5_SendDP_ValMayor/P_5_SendDP_ValMayor.ino)
-* [P6](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_6_Send_GUI_Python/P_6_Send_GUI_Python.ino)
-* [P7](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_7_ControlLED/P_7_ControlLED.ino)
-* [P8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_8_ControlLED_confirmacion/P_8_ControlLED_confirmacion.ino)
-* [P9](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_9_ControlLED_SolicitaConfirmacion/P_9_ControlLED_SolicitaConfirmacion.ino)
-* [P10](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
-* [P11](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_11_EscrituraActuadores/P_11_EscrituraActuadores.ino)
-* [P12](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
+**PROGRAMAS** de la UNIDAD :two: en Arduino:
+* [P1 Send to Python](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
+* [P2 Send Data Potenciometro](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro/P_2_SendDataPotentiometro.ino)
+* [P3 Send Promedio](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
+* [P4 Send Val Menor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_4_SendDP_ValMenor/P_4_SendDP_ValMenor.ino)
+* [P5 Send Val Mayor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_5_SendDP_ValMayor/P_5_SendDP_ValMayor.ino)
+* [P6 Send GUI Python](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_6_Send_GUI_Python/P_6_Send_GUI_Python.ino)
+* [P7 Control LED](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_7_ControlLED/P_7_ControlLED.ino)
+* [P8 Control LED confirmacion](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_8_ControlLED_confirmacion/P_8_ControlLED_confirmacion.ino)
+* [P9 Control LED solicita Confirmacion](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_9_ControlLED_SolicitaConfirmacion/P_9_ControlLED_SolicitaConfirmacion.ino)
+* [P10 Lectura Varios Sensores](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
+* [P11 Escritura Actuadores](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_11_EscrituraActuadores/P_11_EscrituraActuadores.ino)
+* [P12 Dos Pulsadorees](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
 
 Codigos de la UNIDAD :three: en Arduino:
 
