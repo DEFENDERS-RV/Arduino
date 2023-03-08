@@ -20,6 +20,8 @@ Codigos de la UNIDAD :two: en Arduino:
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_8_ControlLED_confirmacion/P_8_ControlLED_confirmacion.ino)
 * [Ejercicio 9](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_9_ControlLED_SolicitaConfirmacion/P_9_ControlLED_SolicitaConfirmacion.ino)
 * [Ejercicio 10](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
+* [Ejercicio 11](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_11_EscrituraActuadores/P_11_EscrituraActuadores.ino)
+* [Ejercicio 12](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
 
 Codigos de la UNIDAD :three: en Arduino:
 
