@@ -35,7 +35,7 @@ Codigos de la UNIDAD :three: en Arduino:
   UNIDAD :two:
 * [Link directo a los archivos](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
-## Tareas en Arduino :computer: :gear:
+## Tareas :computer: :gear:
 En este apartado se muestran las practicas hechas en Arduino
 
 UNIDAD :one: :
