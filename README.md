@@ -36,7 +36,7 @@ Codigos de la UNIDAD :three: en Arduino:
 * [Link directo a los archivos](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
 ## Tareas :computer: :gear:
-En este apartado se muestran las practicas hechas en Arduino
+En este apartado se muestran las tareas de cada unidad.
 
 UNIDAD :one: :
 * [P1 - 3 Series Diferentes](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Practicas/3SERIESDELUCESDIFERENTES/3SERIESDELUCESDIFERENTES.ino)
