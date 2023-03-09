@@ -24,6 +24,10 @@ Codigos de la UNIDAD :one: en Arduino:
 * [P12 Dos Pulsadorees](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
 
 Codigos de la UNIDAD :three: en Arduino:
+* [DATOS NORMALIZADOS - EXCEL](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_I_U3_EQ_3/Datos%20Normalizados.xlsx)
+* [BoxplotEJEMPLO1](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_I_U3_EQ_3/Python/BoxplotEJ1/main.py)
+* [BoxplotEJEMPLO2](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_I_U3_EQ_3/Python/BoxplotEJ2/main.py)
+* [BoxplotEJEMPLO3](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_I_U3_EQ_3/Python/BoxplotEJ3/main.py)
 
 ### Archivos :file_folder: 
 * [P_3_SendDP_Promedio](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Archivos)
