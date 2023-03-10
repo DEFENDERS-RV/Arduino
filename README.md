@@ -10,6 +10,7 @@ Codigos de la UNIDAD :one: en Arduino:
 * [Ejercicio 8](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U1_EQ_3/Arduino/Prog_8_PWM/Prog_8_PWM/Prog_8_PWM.ino)
 
 **PROGRAMAS** de la UNIDAD :two: en Arduino:
+
 * [P1 Send to Python](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_1_SendToPython/P_1_SendToPython.ino)
 * [P2 Send Data Potenciometro](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_2_SendDataPotentiometro/P_2_SendDataPotentiometro.ino)
 * [P3 Send Promedio](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_3_SendDP_Promedio/P_3_SendDP_Promedio.ino)
@@ -22,6 +23,8 @@ Codigos de la UNIDAD :one: en Arduino:
 * [P10 Lectura Varios Sensores](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_10_LecturaVariosSensores/P_10_LecturaVariosSensores.ino)
 * [P11 Escritura Actuadores](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_11_EscrituraActuadores/P_11_EscrituraActuadores.ino)
 * [P12 Dos Pulsadorees](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
+### QT Designer :snake: :pencil2:
+* [Link directo a los archivos](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
 
 Codigos de la UNIDAD :three: en Arduino:
 * [DATOS NORMALIZADOS - EXCEL](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_I_U3_EQ_3/Datos%20Normalizados.xlsx)
@@ -35,9 +38,7 @@ Codigos de la UNIDAD :three: en Arduino:
 * [P_5_SendDP_ValMayor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_5_SendDP_ValMayor.cvs)
 * [TABLAS EXCEL - MARVEL](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/TABLAS_EQ3.xlsx)
 
-### Python y QT Designer :snake: :pencil2:
-  UNIDAD :two:
-* [Link directo a los archivos](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
+
 
 ## Tareas :computer: :gear:
 En este apartado se muestran las tareas de cada unidad.
