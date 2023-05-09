@@ -1,13 +1,13 @@
 USE [master]
 GO
 /*Crea la base de datos*/
-CREATE DATABASE [BD_API_RESTful_SE]
+CREATE DATABASE [BD_API_RESTful_SE_I]
 GO
 /*Configura la base de datos*/
-ALTER DATABASE [BD_API_RESTful_SE] SET ARITHABORT OFF 
+ALTER DATABASE [BD_API_RESTful_SE_I] SET ARITHABORT OFF 
 GO
 /*Selecciona la base de datos para trabajar con ella*/
-USE [BD_API_RESTful_SE]
+USE [BD_API_RESTful_SE_I]
 GO
 /*Crea la tabla devide_manager y le inserta registros*/
 SET ANSI_NULLS ON
@@ -15,15 +15,45 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE TABLE [dbo].[device_manager](
-	[id_device] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
-	[device_name] [nvarchar](100) NOT NULL,
-	[current_value] [numeric](18, 0) NOT NULL,
-	[owner_name] [nvarchar](150) NULL,
-	[max_value] [numeric](18, 0) NULL,
-	[min_value] [numeric](18, 0) NULL,
-	[setpoint] [numeric](18, 0) NULL
+
+CREATE TABLE [dbo].[sensor_info](
+	[id_sensor] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](100) NOT NULL,
+	[id_owner] [numeric](18,0) NOT NULL,
+	[id_type] [numeric](18,0) NOT NULL,	
 )
+CREATE TABLE [dbo].[sensor_records](
+	[id_record] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[id_sensor] [numeric](18, 0) NOT NULL,
+	[current_value] [numeric](18,0) NOT NULL,
+	[date_record] DATETIME NOT NULL,
+)
+CREATE TABLE [dbo].[locations](
+	[id_location] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](100) NOT NULL,
+	[lat] float NULL,
+	[lon] float NULL,
+)
+CREATE TABLE [dbo].[types](
+	[id_type] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](100) NOT NULL,
+	[min_value] [numeric] (18, 0) NULL,
+	[max_value] [numeric] (18, 0) NULL,
+)
+CREATE TABLE [dbo].[owner_info](
+	[id_owner] [numeric](18, 0) IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](100) NOT NULL,
+	[ap_paterno] [nvarchar] (100) NOT NULL,
+	[ap_materno] [nvarchar] (100) NULL,
+	[id_location] [numeric] (18,0) NOT NULL,
+	[jerarquia] [numeric] (18,0) NULL,
+)
+SELECT * FROM dbo.locations
+SELECT * FROM dbo.owner_info
+SELECT * FROM dbo.sensor_info
+SELECT * FROM dbo.sensor_records
+SELECT * FROM dbo.types
+
 GO
 SET IDENTITY_INSERT [dbo].[device_manager] ON 
 
@@ -41,7 +71,7 @@ GO
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
-CREATE PROCEDURE [dbo].[SP_Select_Sensor] 
+CREATE PROCEDURE [dbo].[SP_Delete_Device] 
 	-- Add the parameters for the stored procedure here
 	@id_device as numeric(18,0)	
 AS
@@ -50,13 +80,10 @@ BEGIN
 	-- interfering with SELECT statements.
 	SET NOCOUNT ON;
 
-	SELECT SI.id_sensor , SI.name = "SENSOR" , T.name = "TYPE" , 
-	O.name "OWNER" , L.name "LOCATION"
-	FROM sensor_info SI
-	INNER JOIN type T ON SI.id_type = T.id_type
-	INNER JOIN owener_info O ON O.id_owner = SI.id_owner
-	INNER JOIN locations L ON O.id_location = L.id_location
-	WHERE id_sensor = @id_sensor
+	DELETE [dbo].[device_manager]
+	FROM  [dbo].[device_manager]		
+    WHERE 
+			id_device = @id_device
     
 END
 GO

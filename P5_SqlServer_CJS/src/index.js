@@ -90,13 +90,11 @@ const updateUsuario = async function(){
 //updateUsuario()
 
 
-const sp_SelectALL = async function(){    
+const sp_selectall_sensorinfo = async function(){    
     const conexion = await getConnection()
     const result = await conexion
     .request()        
-        //.input("nombre", sql.VarChar, "Nuevo Nombre" )        
-        //.input("ID", 10 )        
-         .execute('SP_SELECT_USUARIOS')
+    .execute('sp_selectall_sensorinfo')
     console.log(result)
 }
 
