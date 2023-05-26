@@ -24,7 +24,8 @@ Codigos de la UNIDAD :one: en Arduino:
 * [P11 Escritura Actuadores](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_11_EscrituraActuadores/P_11_EscrituraActuadores.ino)
 * [P12 Dos Pulsadorees](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/P_12_Dospulsadores/P_12_Dospulsadores.ino)
 
-**PROGRAMAS** de la UNIDAD :three: en Arduino:
+**PROYECTO** de la UNIDAD :three: en Arduino:
+* [Link directo al proyecto de la Unidad 3](https://github.com/DEFENDERS-RV/Proyecto-U3---Python)
 
 ### QT Designer :snake: :pencil2:
 * [Link directo a los archivos](https://github.com/DEFENDERS-RV/Arduino/tree/main/SE_1_U2_EQ_3/Python)
